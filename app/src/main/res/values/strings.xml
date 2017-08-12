@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GradeAvg</string>
+    <string name="course_name_hint">Course name</string>
+    <string name="grade_hint">Grade</string>
+    <string name="credits_hint">Credit</string>
+    <string name="add_button_text">ADD</string>
+    <string name="default_course_name">[Course name]</string>
+    <string name="default_int">0</string>
+    <string name="avarage">Total Average :</string>
+    <string name="credit_point">Credit Points :</string>
+    <string name="reset">Reset Grades</string>
+    <string name="toast_reset">All grades deleted successfully</string>
+</resources>
